@@ -156,7 +156,7 @@
       "url": "https://packages.unity.com"
     },
     "ga.fuquna.testpublishingpackage": {
-      "version": "file:ga.fuauna.testpublishingpackage",
+      "version": "file:ga.fuquna.testpublishingpackage",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
