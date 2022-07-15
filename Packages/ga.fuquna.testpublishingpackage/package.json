@@ -8,5 +8,10 @@
     "unity",
     "sync",
     "mirror"
-  ]
+  ],
+  "author": {
+    "name": "fuqunaga",
+    "email": "fukhid@gmail.com",
+    "url": "https://fuquna.ga"
+  }
 }
