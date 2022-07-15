@@ -21,7 +21,7 @@ jobs:
       with:
         semantic_version: 19
         branch: main
-        working_directory: ./Packages/ga.fuquna.testpaublishingpackage
+        working_directory: ./Packages/ga.fuquna.testpublishingpackage
         extra_plugins: |
             @semantic-release/changelog@6
             @semantic-release/git
